@@ -1,6 +1,6 @@
 """
     Create a python class for storing calendar event data.
-
+    Author by Hazel
     An calendar event consists of:
 
             start_time

@@ -1,6 +1,6 @@
 """
-    Create a python class that represents a calendar day
-
+    Create a python class that represents a calendar day.
+    Author by Hazel
     A calendar day consists of:
 
             day (1-31)
