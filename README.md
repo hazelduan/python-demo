@@ -1,1 +1,1 @@
-# python-demo-day-event
+# python-demo
